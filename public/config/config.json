@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5CEf8CfAd6731B6D09D351CDD796E37dd3F91123",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x5CEf8CfAd6731B6D09D351CDD796E37dd3F91123",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "ProjectXYZ",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/untitled-collection-8918095",
+  "SHOW_BACKGROUND": true
+}
